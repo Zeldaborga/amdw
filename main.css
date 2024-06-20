@@ -82,10 +82,103 @@ nav ul li a:hover{
     margin: 15px;
 }
 
-.logo{
 
-height: 20px;
-margin: 20px;
-margin-left: 1000px;
+div.name{
+
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+
+.logo{
+    border-radius: 50px;
+    width: 90px;
+    margin-left: 5px;
+}
+
+div.aiimages{
+
+  border-radius: 10px;
+  margin: 20px;
+    
+}
+
+div.aiimages{
+
+    
+    border-radius: 10px;
+    margin: 20px;
 
 }
+
+.footer {
+  background-color: #203622;
+  color: white;
+  padding: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+ 
+}
+ .footer-donate h4 {
+  color: #80764D;
+   
+}
+.footer-about  h4{
+
+}
+.footer-social h4{
+  color: #605c4e;
+}
+.footer > div {
+  flex: 1;
+  margin: 0 10px;
+}
+
+
+.footer-donate {
+  text-align: left;
+}
+
+.footer-about {
+  text-align: center;
+}
+
+.footer-social {
+  text-align: right;
+}
+
+
+.site-links {
+  flex: 0 0 100% !important;
+  text-align: center;
+  margin-top: 20px;
+}
+
+
+.copyright {
+  
+  display: block;
+  margin-top: 10px;
+}
+
+
+.footer a {
+  color: white;
+  text-decoration: none;
+}
+
+.footer a:hover {
+  text-decoration: underline;
+}
+
+
+.footer-logo {
+  margin-top: 20px;
+}
+
+.acknowledgement, .copyright {
+  display: block;
+  margin: 5px 0;
+  }
+
