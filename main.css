@@ -90,17 +90,35 @@ justify-content: space-between;
 align-items: center;
 }
 
-.logo{
+.logo {
     border-radius: 50px;
     width: 90px;
     margin-left: 5px;
 }
 
-div.aiimages{
+.topsection {
+
+  display: flex;
+  background-color: red;
+  height: 200px;
+
+}
+
+
+
+.aiimages2 {
 
   border-radius: 10px;
-  margin: 20px;
+  width: 50%;
+  overflow: hidden;
     
+}
+
+.aiimages img {
+
+  width: 10%;
+
+
 }
 
 div.aiimages{
@@ -110,6 +128,8 @@ div.aiimages{
     margin: 20px;
 
 }
+
+
 
 .footer {
   background-color: #203622;
