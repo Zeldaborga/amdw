@@ -19,6 +19,7 @@ h2{
 
   font-family: "Bebas Neue", sans-serif;
   font-size: 50px;
+  margin-left: 0px;
   margin: 15px;
 }
 /** 
@@ -117,6 +118,7 @@ background-color:#8d0202;
 margin: 15px;
 border-radius: 15px;
 color: #8d0202;
+
 }
 
 
@@ -129,6 +131,32 @@ border-radius: 15px;
 
 }
 
+.middlesection{
+margin: 85px;
+display: flex;
+justify-content: space-between;
+
+
+}
+
+.i4{
+  height: 500px;
+  margin: 15px;
+  border-radius: 15px;
+}
+
+.i5{
+  height: 500px;
+  margin: 15px;
+  border-radius: 15px;
+}
+
+.i15{
+  
+  height: 500px;
+  margin: 15px;
+  border-radius: 15px;
+}
 
 .footer {
   background-color: #203622;
