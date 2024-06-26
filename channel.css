@@ -2,9 +2,9 @@
 
 .center {
     text-align: center;
-    background-color:#c94418;
+    background-color:#c5811b;
     font-family: "Bebas Neue", sans-serif;
-    font-size: 30px;
+    font-size: 30px;s
 }
  
 .logo{
@@ -15,13 +15,30 @@
 .container{
     display: flex;
  width: 100%;
-
+ font-family: "Bebas Neue", sans-serif;
     justify-content: space-between;
 }
 .column{
   
   padding:20px;
-  background-color: #c94418;
+  background-color: #F0A739;
   border: 1px solid #000000;
   text-align: center;  
+  border-radius: 5px;
 }
+
+
+
+
+
+
+
+
+/** 
+colors:
+#8d0202
+#c5811b
+#c94418
+#F0A739
+4f2a20
+**/
